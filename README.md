@@ -2,7 +2,7 @@
 
 This repository is created as part of the final project for learning Git and GitHub.
 
-Minor typo fixed.
+Reverted previous README change.
 
 
 
